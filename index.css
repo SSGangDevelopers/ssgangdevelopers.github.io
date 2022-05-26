@@ -1,0 +1,23 @@
+:root {
+    --color-text: #ccc;
+    --color-background: #261f2c;
+}
+
+body {
+    color: var(--color-text);
+    background-color: var(--color-background);
+}
+
+.slogan {
+    margin-top: 5em;
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+
+}
+#bottom-slogan {
+    font-weight: normal;
+}
